@@ -1,6 +1,6 @@
 # Input nama dan nilai angka
 nama = input("Masukkan Nama :")
-nilai = int(input("Masukkan Nilai Angka:"))
+nilai = float(input("Masukkan Nilai Angka:"))
 # Buat percabangan
 if nilai >= 85 :
     konversi = "A"
